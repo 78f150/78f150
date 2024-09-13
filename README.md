@@ -1,7 +1,6 @@
 ## Hi there 👋
--I'm currently working through the Neural Data Science in Python course at Dalhousie University.
--I'm currently learning the basics of python.
-
+1. I'm currently working through the Neural Data Science in Python course at Dalhousie University.
+2. New to all things python/github/vs code
 <!--
 **78f150/78f150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
